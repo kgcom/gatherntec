@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+     android:background="@drawable/bg"
+    >
+
+   
+
+    <ImageButton
+        android:id="@+id/imageButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@android:color/transparent"
+        android:maxHeight="42dp"
+        android:scaleType="fitCenter"
+        android:scaleX="0.50"
+        android:scaleY="0.50"
+        android:src="@drawable/gather" />
+
+</RelativeLayout>

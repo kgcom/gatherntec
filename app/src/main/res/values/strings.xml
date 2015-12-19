@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gather</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_exit">Exit</string>
+    <string name="title_activity_profile_activitiy">ProfileActivitiy</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="user_type">
+        <item>Student</item>
+        <item>Staff</item>
+    </string-array>
+    <string-array name="user_department">
+        <item>Accounting</item>
+        <item>Business-Management</item>
+        <item>Communications</item>
+        <item>Computing</item>
+        <item>Counselling</item>
+        <item>Culinary</item>
+        <item>English</item>
+        <item>Health</item>
+        <item>Hospitality</item>
+    </string-array>
+
+    <color name="bg_blue">#B2DFDB</color>
+    <color name="text_color">#212121</color>
+    <color name="btn_color">#607D8B</color>
+    <color name="register_color">#FF4081</color>
+
+    <string name="title_activity_main">Gather</string>
+    <string name="title_activity_register">Registration</string>
+    <string name="forgot">I forgot my password.</string>
+    <string name="register">Don\'t have an account?   Register here.</string>
+
+    <string-array name="options">
+        <item>Email Contact</item>
+        <item>Phone Contact</item>
+        <item>Delete Contact</item>
+    </string-array>
+
+    <string name="title_activity_forgot_password">Password Recovery</string>
+    <string name="message">Hi , I scanned your contact details.My name is : </string>
+
+</resources>
